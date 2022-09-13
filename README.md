@@ -1,3 +1,3 @@
 # Alphabet-recognition
 
-Python program to reginize the handwritten digits using Machine learning models
+Python program to recognize the handwritten digits using Machine learning models
